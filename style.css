@@ -1,13 +1,86 @@
 body{
     background-color: brown;
 }
-.first-container{
+.mcontainer{
+    border: 2px solid;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.fcontainer{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    /* padding-left: 200 px;
+    margin-right: 50px; */
+}
+.scontainer{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    font-size: 15px;
+    color: white;
+    /* padding: 80px; */
+    /* justify-content: center; */
+
+}
+.tcontainer{
+    display: flex;
+    
+    /* align-items: last baseline; */
+}
+.second-container{
+    color: white;
+    margin-top: 90px;
+}
+.im{
+    font-size: 40px;
+}
+.shahid{
+    margin-top: 20px;
+    font-size: 60px;
+}
+.underline{
+    /* border-bottom: 2px solid yellow; */
+    margin-top: 15px;
+    height: 5px;
+    width: 245px;
+    background-color: yellow;
+}
+.experiance{
+    margin-top: 45px;
+    font-size: 15px;
+}
+.round-color{
+    background-color: orange;
+    width: 400px;
+    height: 400px;
+    border-radius: 360%;
+
+}
+.picture{
+    border: 2px solid;
+    justify-content: center;
+    background-color: orange;
+    width: 400px;
+    height: 400px;
+    border-radius: 360%;
+    align-items: center;
+}
+.pic{
+    width: 300px;
+    height: 400px;
+}
+/* .first-container{
     width: 100px;
     height: 100px;
     /* border: 2px solid; */
-    display: flex;
-    height: 45vh;
-    /* justify-content: center; */
+    /* display: flex;
+    height: 45vh; */ 
+    /* justify-content: center;
 }
 .name{
     color: white;
@@ -29,16 +102,16 @@ body{
     position: relative;
     top: -320px;
     right: 80px;
-    /* justify-content: center ; */
+    justify-content: center ;
 }
 .tcontainer{
-    /* border: 2px solid; */
+    border: 2px solid;
     display: flex;
-    /* align-items: end; */
+    align-items: end;
 }
 .titem{
 margin: 10px;
 position: relative;
 left: 1200px;
 top: -400px;
-}
+} */
