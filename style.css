@@ -1,8 +1,11 @@
 body{
+    margin: 0;
+    padding: 0;
     background-color: #363543;
+    width: 100%;
 }
 .first-main-container{
-    background-color: #363543;
+    /* background-color: #363543; */
 }
 .mcontainer{
     border: 2px solid;
@@ -10,6 +13,7 @@ body{
     justify-content: center;
     justify-content: space-between;
     align-items: center;
+    padding-left: 139px;
 }
 .fcontainer{
     display: flex;
@@ -27,6 +31,7 @@ body{
     font-size: 15px;
     color: white;
     margin-left: -328px;
+    /* padding-left: 152px; */
     /* padding: 80px; */
     /* justify-content: center; */
 
@@ -34,12 +39,14 @@ body{
 .tcontainer{
     display: flex;
     margin-right: 70px;
-    
+    justify-content: space-around;
+    width: 10%;    
     /* align-items: last baseline; */
 }
 .second-container{
     color: white;
     margin-top: 90px;
+    padding-left: 152px;
 }
 .im{
     font-size: 40px;
@@ -137,6 +144,8 @@ body{
     width: 80%;
     justify-content: center;
     align-items: center;
+    margin-top: 20px;
+    /* padding-top: 15px; */
     /* height: 100px; */
     margin: 0px auto;
 }
@@ -160,22 +169,40 @@ body{
 }
 .second-main-container{
     background-color: #292933;
+    /* background-color: white; */
     color: white;
 }
-.cmcontainer{
-    font-size: 15px;
-    font-weight: bold;
-
+.smcontainer{
+    font-size: 25px;
+    font-weight: bolder;
+    padding-left: 150px;
 }
-.smcontainer{}
+.smfcontainer{
+    padding-left: 150px;
+}
 .twofifty{
     color: yellow;
 }
 .text{
     color: white;
 }
+.smscontainer{
+    display: flex;
+    padding-left: 150px;
+    border: 2px solid;
+}
+.hundred-text{
+    color: yellow;
+    margin-left: 91px;
+}
+.smtcontainer{
+    padding-left: 150px;
+}
+/* .smfcontainer{
+    display: flex;
+}
 .htext{
-    /* display: flex; */
+    display: flex;
     justify-content: center;
     color: white;
-}
+} */
