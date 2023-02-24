@@ -8,7 +8,7 @@ body{
     /* background-color: #363543; */
 }
 .mcontainer{
-    border: 2px solid;
+    /* border: 2px solid; */
     display: flex;
     justify-content: center;
     justify-content: space-between;
@@ -189,14 +189,23 @@ body{
 .smscontainer{
     display: flex;
     padding-left: 150px;
-    border: 2px solid;
+    /* border: 2px solid; */
 }
 .hundred-text{
     color: yellow;
     margin-left: 91px;
 }
+.thirty{
+    color: yellow;
+}
 .smtcontainer{
     padding-left: 150px;
+    display: flex;
+    /* border: 2px solid; */
+}
+.ten{
+    color: yellow;
+    margin-left: 106px;
 }
 /* .smfcontainer{
     display: flex;
