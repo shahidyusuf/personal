@@ -193,7 +193,7 @@ body{
 }
 .hundred-text{
     color: yellow;
-    margin-left: 91px;
+    margin-left: 85px;
 }
 .thirty{
     color: yellow;
@@ -207,11 +207,47 @@ body{
     color: yellow;
     margin-left: 106px;
 }
-/* .smfcontainer{
+.smfocontainer{
     display: flex;
+    border: 2px solid;
+    margin-left: 227px;
+    margin-top: -216px;
+}
+.text-ui{
+    font-size: 15px;
 }
 .htext{
     display: flex;
     justify-content: center;
     color: white;
-} */
+} 
+.uiux{
+    height: 50px;
+    width: 70px;
+}
+.front{
+    height: 50px;
+    width: 70px;
+}
+.mobile{
+    height: 50px;
+    width: 70px;
+}
+.text-ui{
+    margin-top: 12px;
+}
+.zero{
+    margin-left: -92px;
+    margin-top: 30px;
+
+}
+.aero{
+    color: yellow;
+    margin-left: 100px;
+    margin-top: 14px;
+}
+.line{
+    color: gold;
+    height: 5px;
+    width: 24px;
+}
