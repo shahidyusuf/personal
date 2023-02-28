@@ -4,9 +4,6 @@ body{
     background-color: #363543;
     width: 100%;
 }
-.first-main-container{
-    /* background-color: #363543; */
-}
 .mcontainer{
     /* border: 2px solid; */
     display: flex;
@@ -42,6 +39,17 @@ body{
     justify-content: space-around;
     width: 10%;    
     /* align-items: last baseline; */
+}
+.fa-dribbble{
+    color: white;
+    font-size: 200px;
+}
+.fa-linkedin{
+    color: white;
+    font-size: 40px;
+}
+.fa-align-left{
+    color: white;
 }
 .second-container{
     color: white;
@@ -129,6 +137,8 @@ body{
 .logo{
     display: flex;
     margin-top: 17px;
+    font-size: 25px;
+    color: yellow;
 }
 /* .five-container{ */
 /* display: flex; */
@@ -351,8 +361,8 @@ margin-top: 14px;
 
 .colum-one{
     border: 2px solid;
-    height: 180px;
-    width: 300px;
+    height: 155px;
+    width: 2380px;
     margin-right: 92px;
     background-color: #363543;
 }
@@ -363,8 +373,8 @@ margin-top: 14px;
 }
 .colum-two{
     border: 2px solid;
-    height: 180px;
-    width: 300px;
+    height: 155px;
+    width: 2380px;
     margin-right: 92px;
     background-color: #363543;
 }
@@ -374,8 +384,8 @@ margin-top: 14px;
 }
 .colum-three{
     border: 2px solid;
-    height: 180px;
-    width: 300px;
+    height: 155px;
+    width: 2380px;
     background-color: #363543;
 }
 .mob{
